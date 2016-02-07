@@ -2,6 +2,7 @@
 .project
 .claspath
 .mvn
+.settings
 target
 
 # Package Files #
