@@ -11,3 +11,5 @@ target
 *.ear
 
 /bin/
+.classpath
+.springBeans

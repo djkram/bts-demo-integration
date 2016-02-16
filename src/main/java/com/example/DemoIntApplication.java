@@ -8,7 +8,6 @@ import org.springframework.integration.config.EnableIntegration;
 @SpringBootApplication
 @EnableIntegration
 @ImportResource({"classpath*:**/twitter-integration-connection.xml"})
-
 public class DemoIntApplication {
 
 	public static void main(String[] args) {
