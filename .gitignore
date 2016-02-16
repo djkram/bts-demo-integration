@@ -13,3 +13,4 @@ target
 /bin/
 .classpath
 .springBeans
+password.txt
