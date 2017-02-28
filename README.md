@@ -6,8 +6,9 @@ We will create together a project in Spring integration framework to collect dat
 
 ### Set Up your development environment
 
- - Install Java JDK 8: [http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+
  - Install Spring Tool Studio (STS): [https://spring.io/tools/sts/all](https://spring.io/tools/sts/all)
+ - (only for windows) Install Java JDK 8: [http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
  
 
 ### Create an App for Twitter API access

@@ -29,5 +29,7 @@
 		expression="payload.getText()"/>
 	
 	<int:logging-channel-adapter id="twitterOut" level="INFO"/>
+	
+	<!-- Exercise: Modify this project to store the tweets on a file.  -->
 
 </beans>
